@@ -1,4 +1,5 @@
 import React, { useState, useRef } from 'react';
+import './Quiz.css';
 import { data } from '../../assets/data';
 
 
